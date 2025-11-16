@@ -1,0 +1,18 @@
+# Instructions to configure the hosts file for sistem-perpustakaan.local
+
+To access the library management system using the domain sistem-perpustakaan.local,
+you need to add an entry to your system's hosts file.
+
+1. Open the hosts file:
+   - Windows: C:\Windows\System32\drivers\etc\hosts (requires administrator privileges)
+   - Linux/Mac: /etc/hosts
+
+2. Add the following line to the file:
+   127.0.0.1    sistem-perpustakaan.local
+
+3. Save the file
+
+4. Restart your web browser
+
+After completing these steps, you should be able to access the library management system
+by navigating to http://sistem-perpustakaan.local in your web browser.

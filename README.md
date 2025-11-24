@@ -28,7 +28,7 @@
 
 **Sistem Manajemen Perpustakaan** adalah aplikasi berbasis web yang dikembangkan dengan arsitektur MVC menggunakan PHP. Sistem ini dirancang untuk memudahkan pengelolaan perpustakaan, mulai dari manajemen inventaris hingga transaksi peminjaman dan pengembalian buku.
 
-🔗 **Demo Aplikasi**: [https://proyeksistempustaka.infinityfreeapp.com/](https://sistem-perpustakaan.kesug.com/public/)
+🔗 **Demo Aplikasi**: [https://sistem-perpustakaan.kesug.com/public/](https://sistem-perpustakaan.kesug.com/public/)
 
 ---
 

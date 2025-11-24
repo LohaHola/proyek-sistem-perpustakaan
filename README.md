@@ -1,7 +1,7 @@
 # 📚 Sistem Manajemen Perpustakaan
 
 <p align="center">
-  <img src="public/assets/logo..webp" alt="Logo Perpustakaan" width="200">
+  <img src="https://tugasarya.wordpress.com/wp-content/uploads/2025/11/wp-17639517833975521085695862789415.jpg" alt="Logo Perpustakaan" width="200">
 </p>
 
 <p align="center">
